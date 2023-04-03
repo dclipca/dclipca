@@ -1,9 +1,3 @@
-# Hi there 👋
-
-I'm Dan Clipca, programmer interested in VR.
-
-## About me
-
 - 💬 I have more than 5 years of experience in full-stack, frontend web and mobile development, using various languages and frameworks such as React Native, TypeScript/Javascript, PHP, Laravel, Vue.js, Node.js, Express.js, C#, Go, Python and more.
 - 📫 How to reach me: dclipca@protonmail.com, or Twitter below.
 
