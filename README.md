@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dan Clipca, programmer interested in VR, among other things.
+I'm Dan Clipca, programmer interested in VR.
 
 ## About me
 
@@ -15,5 +15,5 @@ I'm Dan Clipca, programmer interested in VR, among other things.
 
 ## Let's connect
 
-[![Twitter](https://img.shields.io/twitter/follow/dclipca?style=social)](https://twitter.com/dclipca)
+[![Twitter](https://img.shields.io/twitter/follow/danclipca?style=social)](https://twitter.com/danclipca)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Dan%20Clipca-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/1234567/dan-clipca)
