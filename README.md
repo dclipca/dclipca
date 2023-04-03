@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dclipca/dclipca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan Clipca, programmer interested in VR and .
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything related to web development or VR programming. I have more than 5 years of experience in full-stack, frontend web and mobile development, using various languages and frameworks such as React Native, TypeScript/Javascript, PHP, Laravel, Vue.js, Node.js, Express.js, C#, Go, Python and more.
+- 📫 How to reach me: dclipca@protonmail.com, or Twitter below.
+
+## My stats
+
+![dclipca's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclipca&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclipca&layout=compact&theme=dark)
+
+## Let's connect
+
+[![Twitter](https://img.shields.io/twitter/follow/dclipca?style=social)](https://twitter.com/dclipca)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Dan%20Clipca-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/1234567/dan-clipca)
