@@ -10,4 +10,4 @@
 ## Let's connect
 
 [![Twitter](https://img.shields.io/twitter/follow/danclipca?style=social)](https://twitter.com/danclipca)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Dan%20Clipca-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/1234567/dan-clipca)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Dan%20Clipca-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/11356638/dclipca)
