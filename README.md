@@ -1,4 +1,4 @@
-- 💬 I have more than 5 years of experience in full-stack, frontend web and mobile development, using various framework and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go, Python and more.
+- 💬 I have more than 5 years of experience in full-stack, frontend web and mobile development, using various frameworks and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go, Python and more.
 - 📫 Reach me at dclipca@protonmail.com.
 
 ## My stats
