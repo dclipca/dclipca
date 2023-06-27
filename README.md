@@ -1,5 +1,6 @@
-- 💬 5 years of full-stack, web and mobile development, using various frameworks and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go, Python and more.
-- 📫 Reach me at dclipca@protonmail.com.
+💬 5 years of full-stack, web and mobile development, using various frameworks and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go, Python and more.  
+
+📫 Reach me at dclipca@protonmail.com.
 
 ## My stats
 
