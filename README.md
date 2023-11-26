@@ -1,4 +1,4 @@
-💬 Generalist with 6 years experience in full-stack, web and mobile development, using various frameworks and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go and Python.  
+💬 Generalist with 6 years of experience in full-stack, web and mobile development, using various frameworks and languages such as React Native, React, Next, Laravel, Vue.js, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go and Python.  
 
 📫 Reach me at dclipca@protonmail.com.
 
