@@ -1,4 +1,4 @@
-📫 Reach me at dclipca@protonmail.com.
+📫 dclipca@protonmail.com
 
 ![dclipca's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclipca&show_icons=true&theme=dark)
 
