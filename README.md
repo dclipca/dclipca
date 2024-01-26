@@ -1,5 +1,3 @@
-Full-stack, web and mobile apps. React Native, React, Next, Laravel, Node.js, Express.js, and TypeScript/Javascript, PHP, C#, Go and Python.  
-
 📫 Reach me at dclipca@protonmail.com.
 
 ## My stats
